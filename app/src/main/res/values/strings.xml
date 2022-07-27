@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Trading Chart</string>
+    <string name="loading">Loading</string>
+
+
+    <string name="price">Price</string>
+    <string name="change_rate">Rate</string>
+    <string name="time">Time</string>
+
+    <string name="open_price">Open price</string>
+    <string name="close_price">Close price</string>
+    <string name="high_price">Highest price</string>
+    <string name="low_price">lowest price</string>
+
+</resources>
